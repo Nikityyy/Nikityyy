@@ -3,7 +3,12 @@
 
 <h3>👋 Heya, I'm Nikita!</h3>
 <h3>❤️ I am a someone who loves Coding.</h3>
-<h3>🖥️ Currently I am working on my own Artificial Intelligences.</h3>
+
+<h2>🖥️ My current projects</h3>
+
+<h4>🌐 German to English Translation AI</h4>
+<h4>🗣️ English TTS AI</h4>
+<h4>📖 Large Language Model</h4>
 
 <h2>Skills</h2>
 
@@ -28,7 +33,7 @@
 <h3>Backend</h3>
 <p align="left">
 <img alt="nodejs" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-<img alt="express" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
+<img alt="express" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="filter: brightness(0) invert(1);">
 </p>
 
 <h3>Machine Learning</h3>
@@ -47,10 +52,4 @@
 <h3>Frameworks</h3>
 <p align="left">
 <img alt="electron" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
-</p>
-
-<h3>Testing</h3>
-<p align="left">
-<img alt="selenium" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
-<img alt="puppeteer" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" />
 </p>
