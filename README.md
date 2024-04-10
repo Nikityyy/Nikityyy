@@ -56,4 +56,4 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikityyy)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikityyy" alt="Top Languages">
