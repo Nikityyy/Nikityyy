@@ -53,3 +53,7 @@
 <p align="left">
 <img alt="electron" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
 </p>
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikityyy)
