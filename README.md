@@ -6,9 +6,10 @@
 
 <h2>🖥️ My current projects</h3>
 
-<h4>🌐 German to English Translation AI</h4>
-<h4>🗣️ English TTS AI</h4>
-<h4>📖 Large Language Model</h4>
+<h4><img alt="German to English Translation AI" width="17" src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/57974/globe-with-meridians-emoji-clipart-md.png"/> German to English Translation AI</h4>
+<h4><img alt="English TTS AI" width="17" src="https://www.shareicon.net/data/512x512/2016/07/19/798503_chat_512x512.png"/> English TTS AI</h4>
+<h4><img alt="Large Language Model" width="17" src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/55892/speaking-head-emoji-clipart-md.png"/> Large Language Model</h4>
+<h4><img alt="sad" width="17" src="images/sad.png"/> sad - The Unblockable AdBlocker</h4>
 
 <h2>Skills</h2>
 
