@@ -73,7 +73,7 @@ I like to solve problems with code, especially when there's math or ML involved.
 
 ## Contact
 
-* GitHub: @Nikityyy
+* GitHub: [Nikityyy](https://github.com/Nikityyy)
 * Email: `bergernikita1807@gmail.com`
 * X/Twitter: [itsnikity](https://x.com/itsnikity)
 * Instagram: [itsnikity](https://www.instagram.com/itsnikity/)
