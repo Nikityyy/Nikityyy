@@ -59,7 +59,7 @@ I like to solve problems with code, especially when there's math or ML involved.
 ## Quick stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikityyy&layout=compact" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikityyy&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
 ---
@@ -73,8 +73,8 @@ I like to solve problems with code, especially when there's math or ML involved.
 
 ## Contact
 
-* GitHub: [Nikityyy](https://github.com/Nikityyy)
 * Email: `bergernikita1807@gmail.com`
+* GitHub: [Nikityyy](https://github.com/Nikityyy)
 * X/Twitter: [itsnikity](https://x.com/itsnikity)
 * Instagram: [itsnikity](https://www.instagram.com/itsnikity/)
 * Hugging Face: [Nikity](https://huggingface.co/Nikity)
